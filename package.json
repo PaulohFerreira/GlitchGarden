@@ -1,0 +1,21 @@
+{
+  "name": "glitchgarden",
+  "version": "1.0.0",
+  "description": "Entry for Ludum Dare 37",
+  "main": "server.js",
+  "dependencies": {
+    "finalhandler": "^0.5.0",
+    "serve-static": "^1.11.1",
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "LDJam"
+  ],
+  "author": "Paulo Henrique da Silva Ferreira",
+  "license": "ISC"
+}
